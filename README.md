@@ -45,5 +45,8 @@ We will be utilzing data from data from Clark County, NV, United States, coverin
 
 While the line graphs in PDF provided some insight inot how average prices vary significantly across different neighborhoods, it also highlighted that the Unincorporated Area have the highest average prices. Given the complexity of creating a detailed map of Clark County in RStudio. I opted to use Tableau instead. The resulting map revealed that the Unincorporated Areas encompass a large portion of Clark County that was not fully captured in the initial dataset. As a local resident, I recognize that these Unincorporated Areas actully consist of several distinct neighborhoods, including Enterprise, Spring Valley, Paradise, Winchester, and Whitney. [Tableau Map](https://public.tableau.com/app/profile/marcos.paredes/viz/Tableau_LV_Airbnb_Analysis/Sheet1?publish=yes&showOnboarding=true)
 
+#### Tableau Discoveries
+Using the dataset provided by [Insdie Airbnb](https://insideairbnb.com/get-the-data/), I created a map in tableau. Although plotting the map was challenging due to limited data like zip-code and being my first time created map in Tableau. Luckly with the inclusion of longitude, latitude, and neighborhood information allowed for effective visualization. Upon reviewing the map and drawing from my local knowledge a clear trend emerges. The most expensive Airbnb listings are concentrated in the Paradise neighborhood. This is expected, as Paradise is located near both the Las Vegas strip and the airport, making it a highly desirable area for short-term rentals.
+
 
 ## ACT
