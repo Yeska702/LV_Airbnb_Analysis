@@ -43,5 +43,7 @@ We will be utilzing data from data from Clark County, NV, United States, coverin
 ## PROCESS, ANALYZE AND SHARE
 [click here to view the full PDF report](https://github.com/Yeska702/LV_Airbnb_Analysis/blob/main/Las%20Vegas%20Airbnb%20Data%20Analysis%20final%20Version.pdf)
 
+While the line graphs in PDF provided some insight inot how average prices vary significantly across different neighborhoods, it also highlighted that the Unincorporated Area have the highest average prices. Given the complexity of creating a detailed map of Clark County in RStudio. I opted to use Tableau instead. The resulting map revealed that the Unincorporated Areas encompass a large portion of Clark County that was not fully captured in the initial dataset. As a local resident, I recognize that these Unincorporated Areas actully consist of several distinct neighborhoods, including Enterprise, Spring Valley, Paradise, Winchester, and Whitney. [Tableau Map](https://public.tableau.com/app/profile/marcos.paredes/viz/Tableau_LV_Airbnb_Analysis/Sheet1?publish=yes&showOnboarding=true)
 
 
+## ACT
