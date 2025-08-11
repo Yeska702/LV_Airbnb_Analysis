@@ -41,7 +41,7 @@ We will be utilzing data from data from Clark County, NV, United States, coverin
 
 
 ## PROCESS, ANALYZE AND SHARE
-[click here to view the full PDF report](reports/Las-Vegas-Airbnb-Data-Analysis-final-Version.pdf)
+[click here to view the full PDF report](https://github.com/Yeska702/LV_Airbnb_Analysis/blob/main/Las%20Vegas%20Airbnb%20Data%20Analysis%20final%20Version.pdf)
 
 
 
