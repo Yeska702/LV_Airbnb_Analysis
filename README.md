@@ -40,6 +40,8 @@ We will be utilzing data from data from Clark County, NV, United States, coverin
 - calendar.csv.gz -> ( LV_Calendar.csv.gz )
 
 
-## PROCESS
+## PROCESS, ANALYZE AND SHARE
+[click here to view the full PDF report](reports/Las-Vegas-Airbnb-Data-Analysis-final-Version.pdf)
+
 
 
